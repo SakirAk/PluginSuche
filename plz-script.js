@@ -90,6 +90,10 @@ else if(inputValue>99000  && inputValue < 1000000 ){
     text = "Name: Andreas Ruschepaul email: fafq@fakljfaja.de nummer:237462";
     document.getElementById("demo").innerHTML = text;
 }
+else
+  text= "Bitte eine valide Zahl eingeben";
+
+}
   
     //document.getElementById("demo").innerHTML = text;
 	}
