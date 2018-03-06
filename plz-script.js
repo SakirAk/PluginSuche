@@ -9,7 +9,7 @@ console.log("javascript wird angesprochen");
 	switch (inputValue) {
 		case inputValue => 1000 && inputValue < 7000:
 			  if(inputValue){
-			  text = "UUHGuhuihuhh";
+			  text = "UUHGuhuiddddhuhh";
 			  document.getElementById("demo").innerHTML = text;}
 			  else
 			break;
